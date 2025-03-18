@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-03-18 06:27:51
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-03-18 18:29:39
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
@@ -666,9 +666,9 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8?GuardEncType
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="📡卫视频道",山西卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225730/2/index.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="📡卫视频道",山西卫视
-http://api2.52tb.xyz/info?id=48&token=20230218qkyjia
+http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="📡卫视频道",山西卫视
-http://58.213.65.146:352/tsfile/live/0118_1.m3u8?key=txiptv
+http://110.53.52.63:8888/newlive/live/hls/43/live.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="📡卫视频道",海南卫视
 http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226574/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EZOP0PLu1-XG8_Ae0lTe9HQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNODcjESMU4f6yMuMuOuQbie%2CEND
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="📡卫视频道",海南卫视
@@ -810,7 +810,7 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225729/2/index.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
-http://120.192.226.35:8009/hls/17/index.m3u8
+http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="📡卫视频道",广西卫视
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226534/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EpjsBggKPaCw3f-xlBWZWaQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMJYhPE64lykNkIsypBRZqO%2CEND
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="📡卫视频道",广西卫视
@@ -848,9 +848,9 @@ http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226964/index.m3u
 #EXTINF:-1 tvg-name="厦门卫视[785*576]" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视[785*576].png" group-title="📡卫视频道",厦门卫视[785*576]
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 #EXTINF:-1 tvg-name="厦门卫视[785*576]" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视[785*576].png" group-title="📡卫视频道",厦门卫视[785*576]
-http://36.105.100.208:35455/itv/1000000005000266006.m3u8?cdn=ystenlive
+http://www.xzbn.site:35455/itv/1000000005000266006.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="厦门卫视[785*576]" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视[785*576].png" group-title="📡卫视频道",厦门卫视[785*576]
-http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
+http://36.105.100.208:35455/itv/1000000005000266006.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="📡卫视频道",三沙卫视
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eb2dn60YQRxhB5rAyOnrv0g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="📡卫视频道",三沙卫视
@@ -930,7 +930,7 @@ http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701_fhd.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="📡卫视频道",兵团卫视
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="📡卫视频道",兵团卫视
-https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-name="延边卫视[1024*576]" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视[1024*576].png" group-title="📡卫视频道",延边卫视[1024*576]
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONS2RAhxb5u6NYaMGGM23S%2CEND
 #EXTINF:-1 tvg-name="延边卫视[1024*576]" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视[1024*576].png" group-title="📡卫视频道",延边卫视[1024*576]
@@ -948,9 +948,9 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 #EXTINF:-1 tvg-name="延边卫视[1024*576]" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视[1024*576].png" group-title="📡卫视频道",延边卫视[1024*576]
 http://36.105.100.208:35455/itv/1000000005000266008.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="延边卫视[1024*576]" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视[1024*576].png" group-title="📡卫视频道",延边卫视[1024*576]
-https://live.ybtvyun.com/video/s10006-2f92b9e0b123/index.m3u8
-#EXTINF:-1 tvg-name="延边卫视[1024*576]" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视[1024*576].png" group-title="📡卫视频道",延边卫视[1024*576]
 http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild
+#EXTINF:-1 tvg-name="延边卫视[1024*576]" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视[1024*576].png" group-title="📡卫视频道",延边卫视[1024*576]
+https://live.ybtvyun.com/video/s10006-2f92b9e0b123/index.m3u8
 #EXTINF:-1 tvg-name="康巴卫视[1024*576]" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康巴卫视[1024*576].png" group-title="📡卫视频道",康巴卫视[1024*576]
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPtFfVFX0AVycM8b4Xmbcl4%2CEND
 #EXTINF:-1 tvg-name="康巴卫视[1024*576]" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康巴卫视[1024*576].png" group-title="📡卫视频道",康巴卫视[1024*576]
@@ -970,4 +970,4 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-name="康巴卫视[1024*576]" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康巴卫视[1024*576].png" group-title="📡卫视频道",康巴卫视[1024*576]
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226263/index.m3u8
 #EXTINF:-1 tvg-name="康巴卫视[1024*576]" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康巴卫视[1024*576].png" group-title="📡卫视频道",康巴卫视[1024*576]
-http://36.105.100.208:35455/itv/1000000005000266002.m3u8?cdn=ystenlive
+http://www.xzbn.site:35455/itv/1000000005000266002.m3u8?cdn=ystenlive
